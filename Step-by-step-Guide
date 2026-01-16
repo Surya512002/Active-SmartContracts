@@ -1,12 +1,12 @@
 1.)Deployment Steps (Quick Refresher)
        
-       Compile: In Remix, select the compiler tab and click Compile BuyMeACoffee.sol.
+        Compile: In Remix, select the compiler tab and click Compile BuyMeACoffee.sol.
 
-       Environment: Go to the "Deploy" tab. Ensure Environment is Injected Provider - MetaMask.
+        Environment: Go to the "Deploy" tab. Ensure Environment is Injected Provider - MetaMask.
 
-Deploy: Click the orange Deploy button.
+        Deploy: Click the orange Deploy button.
 
-Note: This does not cost extra money besides the gas fee (approx $0.10).
+  Note: This does not cost extra money besides the gas fee (approx $0.10).
 
 2.)How to Use It (To increase your "Active" score)
 This contract is unique because it requires ETH to work. This generates a different kind of on-chain footprint.
