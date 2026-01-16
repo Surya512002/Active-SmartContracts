@@ -12,9 +12,7 @@
              
             This contract is unique because it requires ETH to work. This generates a different kind of on-chain footprint.
 
-Test it yourself:
-
-In Remix, look at your deployed contract under "Deployed Contracts".
+            Test it yourself:  In Remix, look at your deployed contract under "Deployed Contracts".
 
 Expand the buyCoffee function.
 
