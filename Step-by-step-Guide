@@ -1,5 +1,6 @@
 1.)Deployment Steps (Quick Refresher)
-Compile: In Remix, select the compiler tab and click Compile BuyMeACoffee.sol.
+       
+       Compile: In Remix, select the compiler tab and click Compile BuyMeACoffee.sol.
 
 Environment: Go to the "Deploy" tab. Ensure Environment is Injected Provider - MetaMask.
 
