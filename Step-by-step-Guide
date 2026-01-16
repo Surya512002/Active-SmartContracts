@@ -32,8 +32,8 @@
 
               Contract Address: Copy from Remix.
 
-Compiler Version: Match the one in Remix (usually 0.8.x).
+              Compiler Version: Match the one in Remix (usually 0.8.x).
 
-Optimization: No (unless you turned it on).
+              Optimization: No (unless you turned it on).
 
 Why this helps your score: Having multiple verified contracts of different types (Data vs. Payments) is a strong signal to the Talent Protocol algorithm that you are an active developer, not just a bot.
