@@ -18,7 +18,7 @@
 
              CRITICAL STEP: In the "Value" box at the top left of the Remix panel, type 0.0001 and change the dropdown from Wei to Ether. (If you don't do this, the transaction will fail because the contract rejects 0 ETH).
 
-Enter a name (e.g., "Self") and message ("Testing").
+             Enter a name (e.g., "Self") and message ("Testing").
 
 Click transact.
 
